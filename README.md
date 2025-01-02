@@ -7,10 +7,10 @@ A multi-functional tool for interacting with Discord webhooks. It allows you to 
 ## 📸 Showcase
 
 ### Console Output Example  
-(https://i.imgur.com/3peIFgg.png)
+<img src="https://i.imgur.com/3peIFgg.png">
 
 ### config.json  
-(https://example.com/path-to-status-dashboard-screenshot.png)
+<img src ="https://example.com/path-to-status-dashboard-screenshot.png">
 
 
 ---
