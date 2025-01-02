@@ -55,5 +55,5 @@ A multi-functional tool for interacting with Discord webhooks. It allows you to 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/pyinstance/oopsie.git
-   cd oopsie
+   git clone https://github.com/pyinstance/daisy-webhook-spammer
+   cd daisy-webhook-spammer
