@@ -1,4 +1,4 @@
-# 🌐 Webhook Spammer Tool
+# 🌐 Daisy Webhook Spammer
 
 A multi-functional tool for interacting with Discord webhooks. It allows you to send messages, update webhook profiles, and manage configurations efficiently. This script supports advanced features like rate limit detection, logging, and real-time status tracking.
 
