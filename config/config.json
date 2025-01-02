@@ -1,0 +1,24 @@
+{
+    "webhooks": [
+        "https://discord.com/api/webhooks/1324520263013892168/Wk1Zykxi-CviC8YrzeF32JUqVsBHW8clpb6WPuCBj1YRsC9UawOUjEAC1U8IwlSN25H7",
+        "https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu",
+        "https://discord.com/api/webhooks/1324520263710150667/boAyBauqAqC8_qD_GOFfwmpA1Tr5V7bsqMZVHtKNrdPtQ41bjltxGK1AdpCheLeM-8Lo"
+    ],
+    "payload": {
+        "content": "@everyone",
+        "embeds": [
+            {
+                "title": "Your a Skid nigga",
+                "description": "FUCK YOU SKID NIGGA\nconfig decompiled your shit\nServer invite [Join nigga](https://discord.gg/exposing)\nOr Add me [Profile](https://discord.com/user/1187083192390398085)",
+                "color": 0,
+                "image": {
+                    "url": "https://media.discordapp.net/attachments/1076839151829262406/1122919865557192795/VgRCrYZv.gif?ex=6777615e&is=67760fde&hm=d2f32b944f479ba0aff4489d09cb508db57dc6abba9f4db8ba2b677e3c5ed688&"
+                }
+            }
+        ]
+    },
+    "name": "config",
+    "avatar_url": "https://cdn.discordapp.com/attachments/1324134882242330624/1324280159171379200/d27195b1bd72bdd539c137c450e14606.jpg?ex=67779381&is=67764201&hm=0a362031e527d8d38416604c4ba4d8f62287aa98fe1c790a2fd2e42360b1b1bc&",
+    "delay": 1,
+    "message_count": 40
+}

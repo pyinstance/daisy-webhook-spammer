@@ -1,0 +1,29 @@
+2025-01-02 23:34:43,053 - WARNING - Webhook https://discord.com/api/webhooks/1324520263013892168/Wk1Zykxi-CviC8YrzeF32JUqVsBHW8clpb6WPuCBj1YRsC9UawOUjEAC1U8IwlSN25H7 is not valid. Status code: 404
+2025-01-02 23:34:43,460 - WARNING - Webhook https://discord.com/api/webhooks/1324520263710150667/boAyBauqAqC8_qD_GOFfwmpA1Tr5V7bsqMZVHtKNrdPtQ41bjltxGK1AdpCheLeM-8Lo is not valid. Status code: 404
+2025-01-02 23:34:43,965 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:44,889 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:45,917 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:46,997 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:47,876 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:49,037 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:50,105 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:50,978 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:51,991 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:52,920 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:53,927 - INFO - Message sent successfully to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu
+2025-01-02 23:34:54,828 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:34:55,952 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:34:56,826 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:34:57,835 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:34:58,851 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:34:59,867 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:35:00,856 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:35:01,833 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:35:02,834 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:35:03,853 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:35:04,841 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:35:05,849 - WARNING - Failed to send to https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu: 404, {"message": "Unknown Webhook", "code": 10015}
+2025-01-02 23:35:20,852 - WARNING - Webhook https://discord.com/api/webhooks/1324520263013892168/Wk1Zykxi-CviC8YrzeF32JUqVsBHW8clpb6WPuCBj1YRsC9UawOUjEAC1U8IwlSN25H7 is not valid. Status code: 404
+2025-01-02 23:35:21,045 - WARNING - Webhook https://discord.com/api/webhooks/1324520623359262731/-Thxd2IDqeAZMWxFIEMr8whxTLxb73HvkZfbCctkCZLXdDtspriQ4wgmg08JR8iLMuWu is not valid. Status code: 404
+2025-01-02 23:35:21,106 - WARNING - Webhook https://discord.com/api/webhooks/1324520263710150667/boAyBauqAqC8_qD_GOFfwmpA1Tr5V7bsqMZVHtKNrdPtQ41bjltxGK1AdpCheLeM-8Lo is not valid. Status code: 404
+2025-01-02 23:35:21,107 - ERROR - No valid webhooks found.
