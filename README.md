@@ -10,7 +10,7 @@ A multi-functional tool for interacting with Discord webhooks. It allows you to 
 <img src="https://i.imgur.com/3peIFgg.png">
 
 ### config.json  
-<img src ="https://example.com/path-to-status-dashboard-screenshot.png">
+<img src ="https://i.imgur.com/2KHATli.png">
 
 
 ---
