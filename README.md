@@ -49,7 +49,7 @@ A multi-functional tool for interacting with Discord webhooks. It allows you to 
   without changing the programs code
 ---
 
-## ASLO DONT FUCKING SKID YOU DIRT CUNT
+## AlSO DONT FUCKING SKID YOU DIRTY CUNT <3
 
 ## 🛠️ Installation
 
